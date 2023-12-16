@@ -1,0 +1,10 @@
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\bin\Debug\EstoqueMedico.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\bin\Debug\EstoqueMedico.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\bin\Debug\EstoqueMedico.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\obj\Debug\EstoqueMedico.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\obj\Debug\EstoqueMedico.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\obj\Debug\EstoqueMedico.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\obj\Debug\EstoqueMedico.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\obj\Debug\EstoqueMedico.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\obj\Debug\EstoqueMedico.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueMedico_Cs\EstoqueMedico\EstoqueMedico\obj\Debug\EstoqueMedico.Form1.resources
